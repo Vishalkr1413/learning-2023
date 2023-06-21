@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/91700/OneDrive/Desktop/git/learning-2023",
-      "program": "c:/Users/91700/OneDrive/Desktop/git/learning-2023/build/Debug/outDebug",
+      "cwd": "c:/Users/91700/OneDrive/Desktop/git/learning-2023/Module Day 2",
+      "program": "c:/Users/91700/OneDrive/Desktop/git/learning-2023/Module Day 2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
